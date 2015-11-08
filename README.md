@@ -85,7 +85,7 @@ elif cmd == '右轉':
 
 # demo影片 #
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZJntNTvb_g8" frameborder="0" allowfullscreen></iframe>
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/ZJntNTvb_g8/0.jpg)](http://www.youtube.com/watch?v=ZJntNTvb_g8)
 
 # 參考 #
 
